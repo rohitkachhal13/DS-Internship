@@ -1,0 +1,101 @@
+,Rank,Name Of Movie,Releasing Year,Duration,Type Of Movie,Rating,Votes,Gross
+0, 1, The Shawshank Redemption ,1994  ,142 min, Drama            ,  9.3 ,"   2,497,298 ",   $28.34M 
+1, 2, The Godfather ,1972  ,175 min," Crime, Drama            ",  9.2 ,"   1,722,056 ",   $134.97M 
+2, 3, The Dark Knight ,2008  ,152 min," Action, Crime, Drama            ",  9.0 ,"   2,447,905 ",   $534.86M 
+3, 4, The Godfather: Part II ,1974  ,202 min," Crime, Drama            ",  9.0 ,"   1,195,318 ",   $57.30M 
+4, 5, 12 Angry Men ,1957  ,96 min," Crime, Drama            ",  9.0 ,"   737,757 ",   $4.36M 
+5, 6, The Lord of the Rings: The Return of the King ,2003  ,201 min," Action, Adventure, Drama            ",  8.9 ,"   1,726,210 ",   $377.85M 
+6, 7, Pulp Fiction ,1994  ,154 min," Crime, Drama            ",  8.9 ,"   1,928,140 ",   $107.93M 
+7, 8, Schindler's List ,1993  ,195 min," Biography, Drama, History            ",  8.9 ,"   1,278,585 ",   $96.90M 
+8, 9, Inception ,2010  ,148 min," Action, Adventure, Sci-Fi            ",  8.8 ,"   2,196,526 ",   $292.58M 
+9, 10, Fight Club ,1999  ,139 min, Drama            ,  8.8 ,"   1,965,063 ",   $37.03M 
+10, 11, The Lord of the Rings: The Fellowship of the Ring ,2001  ,178 min," Action, Adventure, Drama            ",  8.8 ,"   1,747,508 ",   $315.54M 
+11, 12, Forrest Gump ,1994  ,142 min," Drama, Romance            ",  8.8 ,"   1,927,995 ",   $330.25M 
+12, 13," Il buono, il brutto, il cattivo ",1966  ,161 min," Adventure, Western            ",  8.8 ,"   724,104 ",   $6.10M 
+13, 14, The Lord of the Rings: The Two Towers ,2002  ,179 min," Action, Adventure, Drama            ",  8.7 ,"   1,560,456 ",   $342.55M 
+14, 15, The Matrix ,1999  ,136 min," Action, Sci-Fi            ",  8.7 ,"   1,781,296 ",   $171.48M 
+15, 16, Goodfellas ,1990  ,146 min," Biography, Crime, Drama            ",  8.7 ,"   1,081,669 ",   $46.84M 
+16, 17, Star Wars: Episode V - The Empire Strikes Back ,1980  ,124 min," Action, Adventure, Fantasy            ",  8.7 ,"   1,215,985 ",   $290.48M 
+17, 18, One Flew Over the Cuckoo's Nest ,1975  ,133 min, Drama            ,  8.7 ,"   961,525 ",   $112.00M 
+18, 19, Gisaengchung ,2019  ,132 min," Comedy, Drama, Thriller            ",  8.6 ,"   686,011 ",   $53.37M 
+19, 20, Interstellar ,2014  ,169 min," Adventure, Drama, Sci-Fi            ",  8.6 ,"   1,645,995 ",   $188.02M 
+20, 21, Cidade de Deus ,2002  ,130 min," Crime, Drama            ",  8.6 ,"   726,904 ",   $7.56M 
+21, 22, Sen to Chihiro no kamikakushi ,2001  ,125 min," Animation, Adventure, Family            ",  8.6 ,"   703,282 ",   $10.06M 
+22, 23, Saving Private Ryan ,1998  ,169 min," Drama, War            ",  8.6 ,"   1,305,667 ",   $216.54M 
+23, 24, The Green Mile ,1999  ,189 min," Crime, Drama, Fantasy            ",  8.6 ,"   1,216,070 ",   $136.80M 
+24, 25, La vita è bella ,1997  ,116 min," Comedy, Drama, Romance            ",  8.6 ,"   658,417 ",   $57.60M 
+25, 26, Se7en ,1995  ,127 min," Crime, Drama, Mystery            ",  8.6 ,"   1,534,442 ",   $100.13M 
+26, 27, The Silence of the Lambs ,1991  ,118 min," Crime, Drama, Thriller            ",  8.6 ,"   1,345,906 ",   $130.74M 
+27, 28, Star Wars ,1977  ,121 min," Action, Adventure, Fantasy            ",  8.6 ,"   1,287,660 ",   $322.74M 
+28, 29, Seppuku ,1962  ,133 min," Action, Drama, Mystery            ",  8.6 ,"   50,400 "," Votes: 50,400 "
+29, 30, Shichinin no samurai ,1954  ,207 min," Action, Adventure, Drama            ",  8.6 ,"   331,661 ",   $0.27M 
+30, 31, It's a Wonderful Life ,1946  ,130 min," Drama, Family, Fantasy            ",  8.6 ,"   425,874 "," Votes: 425,874 "
+31, 32, Whiplash ,2014  ,106 min," Drama, Music            ",  8.5 ,"   774,436 ",   $13.09M 
+32, 33, The Intouchables ,2011  ,112 min," Biography, Comedy, Drama            ",  8.5 ,"   805,438 ",   $13.18M 
+33, 34, The Prestige ,2006  ,130 min," Drama, Mystery, Sci-Fi            ",  8.5 ,"   1,257,772 ",   $53.09M 
+34, 35, The Departed ,2006  ,151 min," Action, Crime, Drama            ",  8.5 ,"   1,252,280 ",   $132.38M 
+35, 36, The Pianist ,2002  ,150 min," Biography, Drama, Music            ",  8.5 ,"   779,300 ",   $32.57M 
+36, 37, Gladiator ,2000  ,155 min," Action, Adventure, Drama            ",  8.5 ,"   1,413,616 ",   $187.71M 
+37, 38, American History X ,1998  ,119 min, Drama            ,  8.5 ,"   1,074,673 ",   $6.72M 
+38, 39, The Usual Suspects ,1995  ,106 min," Crime, Drama, Mystery            ",  8.5 ,"   1,036,821 ",   $23.34M 
+39, 40, Léon ,1994  ,110 min," Action, Crime, Drama            ",  8.5 ,"   1,093,396 ",   $19.50M 
+40, 41, The Lion King ,1994  ,88 min," Animation, Adventure, Drama            ",  8.5 ,"   993,156 ",   $422.78M 
+41, 42, Terminator 2: Judgment Day ,1991  ,137 min," Action, Sci-Fi            ",  8.5 ,"   1,042,238 ",   $204.84M 
+42, 43, Nuovo Cinema Paradiso ,1988  ,155 min," Drama, Romance            ",  8.5 ,"   247,845 ",   $11.99M 
+43, 44, Hotaru no haka ,1988  ,89 min," Animation, Drama, War            ",  8.5 ,"   256,246 "," Votes: 256,246 "
+44, 45, Back to the Future ,1985  ,116 min," Adventure, Comedy, Sci-Fi            ",  8.5 ,"   1,124,831 ",   $210.61M 
+45, 46, Once Upon a Time in the West ,1968  ,165 min, Western            ,  8.5 ,"   316,770 ",   $5.32M 
+46, 47, Psycho ,1960  ,109 min," Horror, Mystery, Thriller            ",  8.5 ,"   637,383 ",   $32.00M 
+47, 48, Rear Window ,1954  ,112 min," Mystery, Thriller            ",  8.5 ,"   469,652 ",   $36.76M 
+48, 49, Casablanca ,1942  ,102 min," Drama, Romance, War            ",  8.5 ,"   547,064 ",   $1.02M 
+49, 50, Modern Times ,1936  ,87 min," Comedy, Drama, Family            ",  8.5 ,"   230,804 ",   $0.16M 
+50, 51, City Lights ,1931  ,87 min," Comedy, Drama, Romance            ",  8.5 ,"   177,509 ",   $0.02M 
+51, 52, Hamilton ,2020  ,160 min," Biography, Drama, History            ",  8.4 ,"   77,112 "," Votes: 77,112 "
+52, 53, Capharnaüm ,2018  ,126 min, Drama            ,  8.4 ,"   78,144 ",   $1.66M 
+53, 54, Joker ,2019  ,122 min," Crime, Drama, Thriller            ",  8.4 ,"   1,100,282 ",   $335.45M 
+54, 55, Kimi no na wa,2016  ,106 min," Animation, Drama, Fantasy            ",  8.4 ,"   231,349 ",   $5.02M 
+55, 56, Spider-Man: Into the Spider-Verse ,2018  ,117 min," Animation, Action, Adventure            ",  8.4 ,"   439,126 ",   $190.24M 
+56, 57, Avengers: Endgame ,2019  ,181 min," Action, Adventure, Drama            ",  8.4 ,"   965,942 ",   $858.37M 
+57, 58, Avengers: Infinity War ,2018  ,149 min," Action, Adventure, Sci-Fi            ",  8.4 ,"   944,895 ",   $678.82M 
+58, 59, Coco ,I  (2017  ,105 min," Animation, Adventure, Comedy            ",  8.4 ,"   442,822 ",   $209.73M 
+59, 60, Django Unchained ,2012  ,165 min," Drama, Western            ",  8.4 ,"   1,444,854 ",   $162.81M 
+60, 61, The Dark Knight Rises ,2012  ,164 min," Action, Crime            ",  8.4 ,"   1,593,709 ",   $448.14M 
+61, 62, 3 Idiots ,2009  ,170 min," Comedy, Drama            ",  8.4 ,"   372,077 ",   $6.53M 
+62, 63, Taare Zameen Par ,2007  ,165 min," Drama, Family            ",  8.4 ,"   182,698 ",   $1.22M 
+63, 64, WALL·E ,2008  ,98 min," Animation, Adventure, Family            ",  8.4 ,"   1,052,176 ",   $223.81M 
+64, 65, The Lives of Others ,2006  ,137 min," Drama, Mystery, Thriller            ",  8.4 ,"   375,519 ",   $11.29M 
+65, 66, Oldeuboi ,2003  ,101 min," Action, Drama, Mystery            ",  8.4 ,"   546,935 ",   $0.71M 
+66, 67, Memento ,2000  ,113 min," Mystery, Thriller            ",  8.4 ,"   1,178,687 ",   $25.54M 
+67, 68, Mononoke-hime ,1997  ,134 min," Animation, Action, Adventure            ",  8.4 ,"   369,167 ",   $2.38M 
+68, 69, Raiders of the Lost Ark ,1981  ,115 min," Action, Adventure            ",  8.4 ,"   923,770 ",   $248.16M 
+69, 70, The Shining ,1980  ,146 min," Drama, Horror            ",  8.4 ,"   955,929 ",   $44.02M 
+70, 71, Apocalypse Now ,1979  ,147 min," Drama, Mystery, War            ",  8.4 ,"   635,697 ",   $83.47M 
+71, 72, Alien ,1979  ,117 min," Horror, Sci-Fi            ",  8.4 ,"   831,972 ",   $78.90M 
+72, 73, Tengoku to jigoku ,1963  ,143 min," Crime, Drama, Mystery            ",  8.4 ,"   40,475 "," Votes: 40,475 "
+73, 74, Dr,1964  ,95 min," Comedy, War            ",  8.4 ,"   470,858 ",   $0.28M 
+74, 75, Witness for the Prosecution ,1957  ,116 min," Crime, Drama, Mystery            ",  8.4 ,"   117,845 ",   $8.18M 
+75, 76, Paths of Glory ,1957  ,88 min," Drama, War            ",  8.4 ,"   188,834 "," Votes: 188,834 "
+76, 77, Sunset Blvd,1950  ,110 min," Drama, Film-Noir            ",  8.4 ,"   212,958 "," Votes: 212,958 "
+77, 78, The Great Dictator ,1940  ,125 min," Comedy, Drama, War            ",  8.4 ,"   214,883 ",   $0.29M 
+78, 79, Jagten ,2012  ,115 min, Drama            ,  8.3 ,"   307,732 ",   $0.69M 
+79, 80, Inglourious Basterds ,2009  ,153 min," Adventure, Drama, War            ",  8.3 ,"   1,348,850 ",   $120.54M 
+80, 81, Eternal Sunshine of the Spotless Mind ,2004  ,108 min," Drama, Romance, Sci-Fi            ",  8.3 ,"   956,333 ",   $34.40M 
+81, 82, Requiem for a Dream ,2000  ,102 min, Drama            ,  8.3 ,"   801,745 ",   $3.64M 
+82, 83, American Beauty ,1999  ,122 min, Drama            ,  8.3 ,"   1,111,640 ",   $130.10M 
+83, 84, Good Will Hunting ,1997  ,126 min," Drama, Romance            ",  8.3 ,"   910,136 ",   $138.43M 
+84, 85, Toy Story ,1995  ,81 min," Animation, Adventure, Comedy            ",  8.3 ,"   935,661 ",   $191.80M 
+85, 86, Braveheart ,1995  ,178 min," Biography, Drama, History            ",  8.3 ,"   995,228 ",   $75.60M 
+86, 87, Reservoir Dogs ,1992  ,99 min," Crime, Drama, Thriller            ",  8.3 ,"   966,410 ",   $2.83M 
+87, 88, Idi i smotri ,1985  ,142 min," Drama, Thriller, War            ",  8.3 ,"   69,730 "," Votes: 69,730 "
+88, 89, Aliens ,1986  ,137 min," Action, Adventure, Sci-Fi            ",  8.3 ,"   684,671 ",   $85.16M 
+89, 90, Once Upon a Time in America ,1984  ,229 min," Crime, Drama            ",  8.3 ,"   333,074 ",   $5.32M 
+90, 91, Amadeus ,1984  ,160 min," Biography, Drama, Music            ",  8.3 ,"   385,155 ",   $51.97M 
+91, 92, Star Wars: Episode VI - Return of the Jedi ,1983  ,131 min," Action, Adventure, Fantasy            ",  8.3 ,"   994,700 ",   $309.13M 
+92, 93, Das Boot ,1981  ,149 min," Adventure, Drama, Thriller            ",  8.3 ,"   242,321 ",   $11.49M 
+93, 94, 2001: A Space Odyssey ,1968  ,149 min," Adventure, Sci-Fi            ",  8.3 ,"   635,778 ",   $56.95M 
+94, 95, North by Northwest ,1959  ,136 min," Adventure, Mystery, Thriller            ",  8.3 ,"   314,700 ",   $13.28M 
+95, 96, Vertigo ,1958  ,128 min," Mystery, Romance, Thriller            ",  8.3 ,"   385,654 ",   $3.20M 
+96, 97, Singin' in the Rain ,1952  ,103 min," Comedy, Musical, Romance            ",  8.3 ,"   230,690 ",   $8.82M 
+97, 98, Ladri di biciclette ,1948  ,89 min, Drama            ,  8.3 ,"   157,082 ",   $0.33M 
+98, 99, Citizen Kane ,1941  ,119 min," Drama, Mystery            ",  8.3 ,"   425,616 ",   $1.59M 
+99, 100, M - Eine Stadt sucht einen Mörder ,1931  ,117 min," Crime, Mystery, Thriller            ",  8.3 ,"   151,921 ",   $0.03M 
